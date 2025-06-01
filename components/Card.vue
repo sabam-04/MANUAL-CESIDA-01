@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue'
 
-const {titulo, subtitulo, descripcion, images, layout, imgLeyenda} = defineProps({
+const { titulo, subtitulo, descripcion, images, layout, imgLeyenda } = defineProps({
     titulo: String,
     subtitulo: String,
     descripcion: {
@@ -29,28 +29,22 @@ const imageContainerClass = computed(() => {
 
 
 <template>
-  <div class="cardContainer">
-    <div class="cardTextos">
-      <h1 class="cardTitulo">{{ titulo }}</h1>
-      <h2 class="cardSubtitulo" v-if="subtitulo">{{ subtitulo }}</h2>
+    <div class="cardContainer">
+        <div class="cardTextos">
+            <h1 class="cardTitulo">{{ titulo }}</h1>
+            <h2 class="cardSubtitulo" v-if="subtitulo">{{ subtitulo }}</h2>
 
-      <div v-if="Array.isArray(descripcion)">
-        <p v-for="(parrafo, index) in descripcion" :key="index">{{ parrafo }}</p>
-      </div>
-      <p v-else>{{ descripcion }}</p>
-    </div>
+            <div v-if="Array.isArray(descripcion)">
+                <p v-for="(parrafo, index) in descripcion" :key="index">{{ parrafo }}</p>
+            </div>
+            <p v-else>{{ descripcion }}</p>
+        </div>
 
-    <div :class="imageContainerClass">
-      <p class="imagenLeyenda" v-if="imgLeyenda">{{ imgLeyenda }}</p>
-      <img
-        v-for="(img, index) in images"
-        :key="index"
-        :src="img"
-        alt=""
-        class="imagenElem"
-      />
+        <div :class="imageContainerClass">
+            <p class="imagenLeyenda" v-if="imgLeyenda">{{ imgLeyenda }}</p>
+            <img v-for="(img, index) in images" :key="index" :src="img" alt="" class="imagenElem" />
+        </div>
     </div>
-  </div>
 
 </template>
 
@@ -93,7 +87,9 @@ const imageContainerClass = computed(() => {
         gap: 0.5rem;
         margin-top: 1rem;
 
-        .imagenLeyenda {}
+        .imagenLeyenda {
+            
+        }
 
         &.cols-1 {
             grid-template-columns: 1fr;
