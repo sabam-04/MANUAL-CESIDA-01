@@ -1,6 +1,6 @@
 <script setup>
 import { computed } from 'vue'
-// import Button from '~/components/Button.vue'
+import Button from '~/components/Button.vue'
 
 const { titulo, subtitulo, descripcion, images, layout, imgLeyenda, id } = defineProps({
     titulo: String,
@@ -37,9 +37,9 @@ const imageContainerClass = computed(() => {
             <h2 class="cardSubtitulo" v-if="subtitulo">{{ subtitulo }}</h2>
 
             <div v-if="Array.isArray(descripcion)">
-                <p v-for="(parrafo, index) in descripcion" :key="index">{{ parrafo }}</p>
+                <p v-for="(parrafo, index) in descripcion" :key="index" v-html="parrafo"></p>
             </div>
-            <p v-else>{{ descripcion }}</p>
+            <p v-else v-html="descripcion"></p>
         </div>
 
         <div :class="imageContainerClass">
