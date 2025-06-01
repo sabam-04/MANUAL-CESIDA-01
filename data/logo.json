@@ -11,7 +11,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"isotipo"
   },
   {
     "titulo": "Logotipo",
@@ -23,7 +24,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"logotipo"
   },
   {
     "titulo": "Logo dinámico",
@@ -36,7 +38,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"dinamico"
   },
   {
     "titulo": "Área de respeto",
@@ -50,7 +53,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"area"
   },
   {
     "titulo": "Submarcas",
@@ -67,7 +71,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"submarcas"
   },
   {
     "titulo": "Mosca",
@@ -77,7 +82,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"mosca"
   },
   {
     "titulo": "Color",
@@ -88,6 +94,7 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"logocolor"
   }
 ]

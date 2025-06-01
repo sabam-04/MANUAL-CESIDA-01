@@ -11,7 +11,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"historia"
   },
   {
     "titulo": "Principios",
@@ -25,7 +26,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"principios"
   },
   {
     "titulo": "Misión",
@@ -35,7 +37,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"mision"
   },
   {
     "titulo": "Visión",
@@ -51,7 +54,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"vision"
   },
   {
     "titulo": "Valores",
@@ -65,7 +69,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"valores"
   },
   {
     "titulo": "Tono",
@@ -75,7 +80,8 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"tono"
   },
   {
     "titulo": "Voz",
@@ -85,6 +91,7 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"voz"
   }
 ]

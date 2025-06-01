@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue'
 
-const { titulo, subtitulo, descripcion, images, layout, imgLeyenda } = defineProps({
+const { titulo, subtitulo, descripcion, images, layout, imgLeyenda, id } = defineProps({
     titulo: String,
     subtitulo: String,
     descripcion: {
@@ -16,7 +16,8 @@ const { titulo, subtitulo, descripcion, images, layout, imgLeyenda } = definePro
         type: String,
         default: 'auto'
     },
-    imgLeyenda: String
+    imgLeyenda: String, 
+    id: String
 })
 
 const imageContainerClass = computed(() => {
@@ -29,7 +30,7 @@ const imageContainerClass = computed(() => {
 
 
 <template>
-    <div class="cardContainer">
+    <div :id="id" class="cardContainer">
         <div class="cardTextos">
             <h1 class="cardTitulo">{{ titulo }}</h1>
             <h2 class="cardSubtitulo" v-if="subtitulo">{{ subtitulo }}</h2>
@@ -52,7 +53,7 @@ const imageContainerClass = computed(() => {
 <style scoped lang="scss">
 .cardContainer {
     border-bottom: 1px solid #000000;
-    padding: 1rem;
+    padding: 1rem 1rem 2rem;
     margin-bottom: 2rem;
     background-color: #E4E4E4;
     width: 95%;

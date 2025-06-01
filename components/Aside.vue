@@ -13,42 +13,41 @@ import MenuButton from './MenuButton.vue'
             <MenuButton label="Intro" to="/intro" />
 
             <MenuButton label="Marca" to="/marca" :submenu="[
-                { label: 'Historia', href: '#historia' },
-                { label: 'Principios', href: '#principios' },
-                { label: 'Misión', href: '#mision' },
-                { label: 'Visión', href: '#vision' },
-                { label: 'Valores', href: '#valores' },
-                { label: 'Tono', href: '#tono' },
-                { label: 'Voz', href: '#voz' },
+                { label: 'Historia', href: '/marca#historia' },
+                { label: 'Principios', href: '/marca#principios' },
+                { label: 'Misión', href: '/marca#mision' },
+                { label: 'Visión', href: '/marca#vision' },
+                { label: 'Valores', href: '/marca#valores' },
+                { label: 'Tono', href: '/marca#tono' },
+                { label: 'Voz', href: '/marca#voz' },
             ]" />
 
-            <MenuButton label="Logo" to="/logo" :submenu="[
-                { label: 'Visión general', href: '#visiongeneral' },
-                { label: 'Isotipo', href: '#isotipo' },
-                { label: 'Logotipo', href: '#logotipo' },
-                { label: 'Logo dinámico', href: '#dinamico' },
-                { label: 'Área de respeto', href: '#area' },
-                { label: 'Submarcas', href: '#submarcas' },
-                { label: 'Mosca', href: '#mosca' },
-                { label: 'Color', href: '#logocolor' },
+            <MenuButton label="Logo" to="/logo" :submenu="[ 
+                { label: 'Isotipo', href: '/logo#isotipo' },
+                { label: 'Logotipo', href: '/logo#logotipo' },
+                { label: 'Logo dinámico', href: '/logo#dinamico' },
+                { label: 'Área de respeto', href: '/logo#area' },
+                { label: 'Submarcas', href: '/logo#submarcas' },
+                { label: 'Mosca', href: '/logo#mosca' },
+                { label: 'Color', href: '/logo#logocolor' },
             ]" />
 
             <MenuButton label="Tipografía" to="/tipografia" :submenu="[
-                { label: 'Tipografía principal', href: '#tprincipal' },
-                { label: 'Tipografía secundaria', href: '#tsecundaria' },
-                { label: 'Pesos', href: '#pesos' },
-                { label: 'Jerarquía de tipos', href: '#jerarquia' },
-                { label: 'Aplicaciones', href: '#taplicaciones' },
+                { label: 'Tipografía principal', href: '/tipografia#tprincipal' },
+                { label: 'Tipografía secundaria', href: '/tipografia#tsecundaria' },
+                { label: 'Pesos', href: '/tipografia#pesos' },
+                { label: 'Jerarquía de tipos', href: '/tipografia#jerarquia' },
+                { label: 'Aplicaciones', href: '/tipografia#taplicaciones' },
             ]" />
             <MenuButton label="Color" to="/color" :submenu="[
-                { label: 'Colores principales', href: '#cprincipales' },
-                { label: 'Colores secundarios', href: '#csecundarios' },
-                { label: 'Escala de grises', href: '#grises' },
-                { label: 'Color submarca', href: '#csubmarca' },
+                { label: 'Colores principales', href: '/color#cprincipales' },
+                { label: 'Colores secundarios', href: '/color#csecundarios' },
+                { label: 'Escala de grises', href: '/color#grises' },
+                { label: 'Color submarca', href: '/color#csubmarca' },
             ]" />
 
             <MenuButton label="Layout" to="/layout" :submenu="[
-                { label: 'Retícula', href: '#reticula' },
+                { label: 'Retícula', href: '/layout#reticula' },
 
             ]" />
 
@@ -59,21 +58,21 @@ import MenuButton from './MenuButton.vue'
             ]" />
 
             <MenuButton label="Fotografía" to="/fotografia" :submenu="[
-                { label: 'Tipo de fotografía', href: '#tipofoto' },
-                { label: 'Edición', href: '#edicionfoto' },
+                { label: 'Tipo de fotografía', href: '/fotografia#tipofoto' },
+                { label: 'Edición', href: '/fotografia#edicionfoto' },
             ]" />
 
             <MenuButton label="Motion" to="/motion" :submenu="[
-                { label: 'Modos', href: '#modos' },
-                { label: 'Comportamientos', href: '#comportamientos' },
+                { label: 'Modos', href: '/motion#modos' },
+                { label: 'Comportamientos', href: '/motion#comportamientos' },
             ]" />
 
             <MenuButton label="Aplicaciones" to="/aplicaciones" :submenu="[
-                { label: 'Publicidad', href: '#publicidad' },
-                { label: 'Papelería corporativa', href: '#papeleria' },
-                { label: 'Merchandising', href: '#merch' },
-                { label: 'Redes sociales', href: '#redessociales' },
-                { label: 'Web', href: '#web' },
+                { label: 'Publicidad', href: '/aplicaciones#publicidad' },
+                { label: 'Papelería corporativa', href: '/aplicaciones#papeleria' },
+                { label: 'Merchandising', href: '/aplicaciones#merch' },
+                { label: 'Redes sociales', href: '/aplicaciones#redessociales' },
+                { label: 'Web', href: '/aplicaciones#web' },
             ]" />
 
 
