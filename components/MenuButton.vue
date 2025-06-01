@@ -62,6 +62,7 @@ watch(() => route.path, () => {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .main-button {

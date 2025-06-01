@@ -106,7 +106,6 @@ import MenuButton from './MenuButton.vue'
 
     .asideNav {
         padding: 1rem;
-        margin-top: 2rem;
         color: white;
     }
 
