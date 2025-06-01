@@ -1,14 +1,22 @@
 <script setup>
 import { computed } from 'vue'
+// import Button from '~/components/Button.vue'
 
-const { titulo, subtitulo, descripcion, images, layout, imgLeyenda } = defineProps({
+const {
+    titulo,
+    subtitulo,
+    descripcion,
+    media,
+    layout,
+    botonTexto
+} = defineProps({
     titulo: String,
     subtitulo: String,
     descripcion: {
         type: [String, Array],
         default: ''
     },
-    images: {
+    media: {
         type: Array,
         default: () => []
     },
@@ -16,17 +24,16 @@ const { titulo, subtitulo, descripcion, images, layout, imgLeyenda } = definePro
         type: String,
         default: 'auto'
     },
-    imgLeyenda: String
+    botonTexto: String
 })
 
 const imageContainerClass = computed(() => {
     if (layout === 'column') return 'image-container column'
     if (layout === 'row') return 'image-container row'
     if (layout.startsWith('cols-')) return `image-container ${layout}`
-    return `image-container cols-${images.length}`
+    return `image-container cols-${media.length}`
 })
 </script>
-
 
 <template>
     <div class="cardContainer">
@@ -41,17 +48,27 @@ const imageContainerClass = computed(() => {
         </div>
 
         <div :class="imageContainerClass">
-            <p class="imagenLeyenda" v-if="imgLeyenda">{{ imgLeyenda }}</p>
-            <img v-for="(img, index) in images" :key="index" :src="img" alt="" class="imagenElem" />
+            <div v-for="(item, index) in media" :key="index" class="media-item" :class="item.layout || 'column'">
+                <p v-if="item.caption" class="media-caption">{{ item.caption }}</p>
+
+                <img v-if="item.type === 'image'" :src="item.src" alt="" class="media-element" />
+
+                <video v-else-if="item.type === 'video'" controls class="media-element">
+                    <source :src="item.src" type="video/mp4" />
+                    Tu navegador no soporta el video.
+                </video>
+            </div>
+        </div>
+
+        <div v-if="botonTexto" class="cardButton">
+            <Button :text="botonTexto" />
         </div>
     </div>
-
 </template>
-
 
 <style scoped lang="scss">
 .cardContainer {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #000;
     padding: 1rem;
     margin-bottom: 2rem;
     background-color: #E4E4E4;
@@ -63,7 +80,7 @@ const imageContainerClass = computed(() => {
         .cardTitulo {
             font-size: 3rem;
             margin-bottom: 0.25rem;
-            color: #000000;
+            color: #000;
         }
 
         .cardSubtitulo {
@@ -72,24 +89,12 @@ const imageContainerClass = computed(() => {
             margin-bottom: 0.5rem;
             color: #838383;
         }
-
-        .cardDescripcion {
-            font-family: "Rubik", sans-serif;
-            font-size: 1.25rem;
-            margin-bottom: 1rem;
-            line-height: 1.5;
-        }
-
     }
 
     .image-container {
         display: grid;
-        gap: 0.5rem;
+        gap: 1rem;
         margin-top: 1rem;
-
-        .imagenLeyenda {
-            
-        }
 
         &.cols-1 {
             grid-template-columns: 1fr;
@@ -103,12 +108,52 @@ const imageContainerClass = computed(() => {
             grid-template-columns: repeat(3, 1fr);
         }
 
-        img {
-            width: 100%;
-            height: auto;
-            border-radius: 4px;
-            object-fit: cover;
-        }
+       .media-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+
+  &.row {
+    flex-direction: row;
+
+    .media-caption {
+      flex: 1 1 0;
+      max-width: 20%;
+    }
+
+    .media-element {
+      flex: 2 1 0;
+      max-width: 80%;
+    }
+  }
+
+  &.column {
+    flex-direction: column;
+
+    .media-caption,
+    .media-element {
+      width: 100%;
+    }
+  }
+
+  .media-caption {
+    font-size: 0.9rem;
+    color: #555;
+  }
+
+  .media-element {
+    border-radius: 4px;
+    object-fit: cover;
+    width: 100%;
+  }
+}
+
+
+    }
+
+    .cardButton {
+        margin-top: 1rem;
     }
 }
 </style>
