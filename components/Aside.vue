@@ -5,7 +5,7 @@
 <template>
     <div class="aside">
         <div class="asideLogo">
-            <img src="/img/CesidaLogo_blanco.svg" alt="Logo">
+            <video src="/img/Cesida_Logo.webm" autoplay loop muted playsinline></video>
         </div>
 
         <div class="asideNav">
@@ -29,8 +29,8 @@
   z-index: 1000;
     .asideLogo{
         padding: 2rem 1rem;
-        img {
-            height: 3rem;
+        video {
+            height: 4rem;
         }
     }
     .asideNav{
