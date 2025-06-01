@@ -11,7 +11,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/color/Color1.png",
       "caption": "",
       "layout": "row"
       }
@@ -31,7 +31,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/color/Color2.png",
       "caption": "",
       "layout": "row"
       }
@@ -51,7 +51,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/color/Color67.png",
       "caption": "",
       "layout": "row"
       }
@@ -70,7 +70,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/color/Color8.png",
       "caption": "",
       "layout": "row"
       }
@@ -94,7 +94,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/color/Color9.png",
       "caption": "",
       "layout": "row"
       }
