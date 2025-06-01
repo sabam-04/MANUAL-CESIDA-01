@@ -1,0 +1,25 @@
+[
+  {
+    "titulo": "Introducción",
+    "subtitulo": "Identidad visual de Cesida",
+    "descripcion": [
+      "¡Bienvenidx!",
+      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
+      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
+      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
+      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
+    ],
+    "layout": "cols-1",
+    "id": "",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": true,
+  "botonTexto": "Descargar paleta"
+  }
+]

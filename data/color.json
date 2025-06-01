@@ -1,0 +1,105 @@
+[
+  {
+    "titulo": "Color",
+    "subtitulo": "",
+    "descripcion": [
+      "El sistema cromático de CESIDA ha sido diseñado como una herramienta de comunicación poderosa y versátil. A través del color, se canalizan los valores fundamentales de la organización: la diversidad, el cuidado, la visibilidad y la acción colectiva.",
+      "No se trata solo de una paleta visualmente atractiva, sino de un lenguaje cromático capaz de construir narrativas inclusivas, facilitar la navegación y articular los distintos espacios que conviven bajo una misma red."
+    ],
+    "layout": "cols-1",
+    "id": "",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": true,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Colores",
+    "subtitulo": "Principales",
+    "descripcion": [
+      "Los colores principales de CESIDA conforman la voz institucional de la marca, aportando una paleta vibrante, accesible y de alto contraste que busca generar impacto y confianza. Esta paleta se basa en los colores del branding anterior de la organización, pero ha sido actualizada y ajustada para lograr un aspecto más moderno, juvenil, dinámico, experimental y expresivo.",
+      "En conjunto, estos colores forman la columna vertebral del sistema visual de CESIDA, asegurando un tono coherente, sólido y contemporáneo que se aplica en mensajes institucionales, campañas, navegación web y acciones de sensibilización."
+    ],
+    "layout": "cols-1",
+    "id": "cprincipales",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": true,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Colores",
+    "subtitulo": "Secundarios",
+    "descripcion": [
+      "Los colores secundarios de CESIDA se derivan de los tonos principales mediante ajustes en saturación, brillo y luminosidad, lo que amplía y enriquece la paleta cromática del sistema visual. Esta evolución permite una mayor riqueza expresiva, facilitando la creación de contrastes, matices y jerarquías visuales que se adaptan con flexibilidad a distintos soportes y contextos sin perder cohesión ni identidad.",
+      "Esta gama complementaria potencia una comunicación más rica, emocional y sensible a las diversas audiencias y mensajes, reforzando la naturaleza dinámica, inclusiva y adaptable de la identidad de CESIDA. Así, los colores secundarios se convierten en una herramienta clave para articular campañas, soportes digitales y piezas editoriales con un carácter propio."
+    ],
+    "layout": "cols-1",
+    "id": "csecundarios",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": true,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Escala de gris",
+    "subtitulo": "",
+    "descripcion": [
+      "La escala de grises en CESIDA ofrece una base neutral y equilibrada que complementa y armoniza con los colores principales y secundarios de la marca. Sirve para aportar claridad y sobriedad institucional en documentos y soportes formales, asegurando que el sistema visual mantenga coherencia y accesibilidad. Esta gama neutra actúa como soporte del sistema cromático, facilitando la integración de los tonos vibrantes y expresivos de la identidad sin perder profesionalismo ni legibilidad."
+    ],
+    "layout": "cols-1",
+    "id": "grises",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": true,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Submarca",
+    "subtitulo": "",
+    "descripcion": [
+      "Dada la naturaleza de CESIDA como una red estatal estructurada en diversas áreas clave, se ha diseñado un sistema de color que permite organizar visualmente sus múltiples ámbitos de actuación, como salud, formación, mujer, entre otros.",
+      "Cada una de estas submarcas o divisiones cuenta con un color predominante, que no supone un rebranding individual, sino un acento visual que aporta identidad sin romper la unidad del sistema.",
+      "Este color se utiliza con mayor peso en sus respectivas secciones en elementos como botones, encabezados o íconos, reforzando el reconocimiento sin fragmentar la marca principal.",
+      "El enfoque flexible de este sistema permite incorporar nuevas submarcas en el futuro sin perder consistencia, preservando la diversidad, modularidad y escalabilidad de la identidad visual de CESIDA.",
+      "Este tratamiento cromático responde al objetivo de crear una red visual coherente pero diversa, capaz de reflejar la amplitud y riqueza del trabajo de la organización en sus diferentes ámbitos de intervención.",
+      "Los colores asignados actualmente son:"
+    ],
+    "layout": "cols-1",
+    "id": "csubmarca",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": "Descargar paleta"
+  }
+]

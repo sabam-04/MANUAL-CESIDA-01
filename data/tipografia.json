@@ -1,0 +1,63 @@
+[
+  {
+    "titulo": "Tipografía",
+    "subtitulo": "",
+    "descripcion": [
+      "Nuestra tipografía nace de la unión entre claridad y cercanía, diseñada para transmitir confianza y reflejar la diversidad que define a CESIDA. Cada carácter busca acercar el mensaje, construyendo un lenguaje visual que habla de comunidad, inclusión y profesionalismo en todos los formatos."
+    ],
+    "layout": "cols-1",
+    "id": "",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Tipografía",
+    "subtitulo": "Principal",
+    "descripcion": [
+      "Rubik es la tipografía principal de la identidad visual de CESIDA. Se utiliza en el logotipo, en los cuerpos de texto y en la mayoría de los contenidos escritos de la marca. Su diseño geométrico, amable y legible la convierte en una opción accesible para una amplia variedad de públicos, facilitando la comprensión de los mensajes en todos los canales y soportes.",
+      "Además, sus formas redondeadas y abiertas contribuyen a reforzar el tono cercano y humano que define la voz de CESIDA, sin renunciar a una apariencia profesional y clara.",
+      "Rubik está disponible en varios pesos, lo que permite crear jerarquías visuales sin perder cohesión, adaptándose con facilidad a materiales tanto digitales como impresos."
+    ],
+    "layout": "cols-1",
+    "id": "tprincipal",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": "Descargar paleta"
+  },
+  {
+    "titulo": "Tipografía",
+    "subtitulo": "Secundaria",
+    "descripcion": [
+      "Como tipografía secundaria, Space Grotesk se utiliza principalmente en títulos, destacados y elementos decorativos. Su estructura geométrica y sus ángulos inesperados le aportan un carácter único y contemporáneo que contrasta y complementa perfectamente con la neutralidad de Rubik.",
+      "Es una tipografía con personalidad, ideal para añadir énfasis, ritmo visual y dinamismo en ciertas piezas gráficas, sin romper la coherencia del sistema tipográfico.",
+      "Este uso de Space Grotesk potencia la capacidad del sistema gráfico para adaptarse a formatos creativos y expresivos, manteniendo siempre la claridad y accesibilidad que requiere la comunicación de una organización como CESIDA."
+    ],
+    "layout": "cols-1",
+    "id": "tsecundaria",
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": "Descargar paleta"
+  }
+]
