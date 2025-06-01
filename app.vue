@@ -38,9 +38,16 @@ useHead({
     "Este rediseño de identidad visual es un proyecto educativo de diseño gráfico desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi en el marco de la Escuela Superior de Diseño de Madrid (ESDM), en colaboración con CESIDA.",
     "El objetivo del rebranding es refrescar la imagen visual de CESIDA sin perder su esencia: visibilizar sin estigmatizar, comunicar desde la cercanía y reforzar su papel como red de apoyo, defensa e información. La nueva identidad apuesta por un sistema modular, accesible y dinámico, que refleja la diversidad, inclusión y fuerza colectiva que define a la organización."
     ],
-    "images": [""],
-    "layout": "cols-2",
-    "imgLeyenda": ""
+    "media": [
+      {
+      "type": "image",
+      "src": "/img/CESIDA_Logo.svg",
+      "caption": "Logo de Cesida",
+      "layout": "row" (la leyenda y la imagen están en row. Si escribes column la leyenda esta arriba de la imagen)
+      }],
+    "layout": "cols-2", (cantidad de imagenes en el grid)
+    "showButton": true,
+    "buttonText": "Descargar paleta" (texto que aparece en el boton)
      }
     ]
 
