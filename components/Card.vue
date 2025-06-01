@@ -2,14 +2,7 @@
 import { computed } from 'vue'
 // import Button from '~/components/Button.vue'
 
-const {
-    titulo,
-    subtitulo,
-    descripcion,
-    media,
-    layout,
-    botonTexto
-} = defineProps({
+const { titulo, subtitulo, descripcion, images, layout, imgLeyenda, id } = defineProps({
     titulo: String,
     subtitulo: String,
     descripcion: {
@@ -24,7 +17,8 @@ const {
         type: String,
         default: 'auto'
     },
-    botonTexto: String
+    imgLeyenda: String,
+    id: String
 })
 
 const imageContainerClass = computed(() => {
@@ -36,7 +30,7 @@ const imageContainerClass = computed(() => {
 </script>
 
 <template>
-    <div class="cardContainer">
+    <div :id="id" class="cardContainer">
         <div class="cardTextos">
             <h1 class="cardTitulo">{{ titulo }}</h1>
             <h2 class="cardSubtitulo" v-if="subtitulo">{{ subtitulo }}</h2>
@@ -68,8 +62,8 @@ const imageContainerClass = computed(() => {
 
 <style scoped lang="scss">
 .cardContainer {
-    border-bottom: 1px solid #000;
-    padding: 1rem;
+    border-bottom: 1px solid #000000;
+    padding: 1rem 1rem 2rem;
     margin-bottom: 2rem;
     background-color: #E4E4E4;
     width: 95%;
@@ -108,46 +102,46 @@ const imageContainerClass = computed(() => {
             grid-template-columns: repeat(3, 1fr);
         }
 
-       .media-item {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  width: 100%;
+        .media-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            width: 100%;
 
-  &.row {
-    flex-direction: row;
+            &.row {
+                flex-direction: row;
 
-    .media-caption {
-      flex: 1 1 0;
-      max-width: 20%;
-    }
+                .media-caption {
+                    flex: 1 1 0;
+                    max-width: 20%;
+                }
 
-    .media-element {
-      flex: 2 1 0;
-      max-width: 80%;
-    }
-  }
+                .media-element {
+                    flex: 2 1 0;
+                    max-width: 80%;
+                }
+            }
 
-  &.column {
-    flex-direction: column;
+            &.column {
+                flex-direction: column;
 
-    .media-caption,
-    .media-element {
-      width: 100%;
-    }
-  }
+                .media-caption,
+                .media-element {
+                    width: 100%;
+                }
+            }
 
-  .media-caption {
-    font-size: 0.9rem;
-    color: #555;
-  }
+            .media-caption {
+                font-size: 0.9rem;
+                color: #555;
+            }
 
-  .media-element {
-    border-radius: 4px;
-    object-fit: cover;
-    width: 100%;
-  }
-}
+            .media-element {
+                border-radius: 4px;
+                object-fit: cover;
+                width: 100%;
+            }
+        }
 
 
     }

@@ -11,6 +11,87 @@
     ],
     "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": ""
+    "imgLeyenda": "",
+    "id":"historia"
+  },
+  {
+    "titulo": "Principios",
+    "subtitulo": "",
+    "descripcion": [
+      "Nos guiamos por cuatro principios fundamentales que reflejan la manera en que CESIDA actúa, se comunica y acompaña:",
+      "• Cercanía : Cesida es una organización sin fines de lucro que busca ayudar, informar, promover la igualdad y dignidad. Su manera de comunicarse es informal, coloquial ya que tratan temas sensibles sin tabúes.",
+      "• Confiabilidad : A su vez es una organización referente para otras entidades y que defiende los derechos de personas con VIH ante autoridades. Es un punto de información y coordina y organiza las acciones que se llevan a cabo. Por esto es organizada y documentada.",
+      "• Inclusión : En Cesida se busca eliminar el estigma y la discriminación. Es un refugio para todo tipo de personas de caminos, orientaciones sexuales, estatus diversos. Aquí todos son igual de importantes.",
+      "• Unión : Cesida no solo informa o acompaña, también construye redes. Une personas, asociaciones, territorios y experiencias en torno a un objetivo común: vivir con dignidad. Cada vínculo refuerza la lucha compartida, y en esa conexión está su fuerza transformadora."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"principios"
+  },
+  {
+    "titulo": "Misión",
+    "subtitulo": "",
+    "descripcion": [
+      "La Coordinadora Estatal de VIH-sida (CESIDA) es una plataforma no lucrativa y no gubernamental que agrupa asociaciones del Estado español dedicadas a la lucha contra el VIH y el sida. Su misión es promover la participación ciudadana y comunitaria en el diseño y ejecución de políticas integrales que aborden la realidad del VIH, facilitando el acceso a información, atención y apoyo a través de su red de entidades."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"mision"
+  },
+  {
+    "titulo": "Visión",
+    "subtitulo": "",
+    "descripcion": [
+      "CESIDA aspira a consolidarse como la organización de referencia a nivel estatal e internacional en la representación del movimiento ciudadano contra el VIH. Su visión se basa en:",
+      "Coordinar y representar a las entidades sociales involucradas.",
+      "Luchar contra la discriminación hacia personas con VIH.",
+      "Prevenir nuevas transmisiones mediante la información y la sensibilización.",
+      "Visibilizar y normalizar la realidad de las personas que viven con el virus.",
+      "Intervenir activamente en políticas sociales, de salud, género y derechos humanos.",
+      "Desarrollar iniciativas que mejoren la calidad de vida de las personas afectadas."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"vision"
+  },
+  {
+    "titulo": "Valores",
+    "subtitulo": "",
+    "descripcion": [
+      "• Confiabilidad: CESIDA es una fuente seria, no comercial, basada en evidencia y comprometida con el bienestar social.",
+      "• Inclusividad: Acoge a todos los colectivos, incluidos los tradicionalmente representados y la población general.",
+      "• Cercanía: Habla claro, sin juicios, con empatía y una actitud accesible y humana.",
+      "• Responsabilidad social: Lucha contra el estigma y promueve los derechos humanos.",
+      "• Colaboración: Funciona como una red de apoyo mutuo entre entidades y personas."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"valores"
+  },
+  {
+    "titulo": "Tono",
+    "subtitulo": "",
+    "descripcion": [
+      "Optimista, empático y propositivo. Usa un lenguaje cotidiano, directo, accesible y a veces con toques de humor sutil."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"tono"
+  },
+  {
+    "titulo": "Voz",
+    "subtitulo": "",
+    "descripcion": [
+      "Cercana, informada y confiable. Nunca condescendiente. Busca hablar contigo, no sobre ti. Humaniza el VIH sin caer en dramatismos, apelando a la responsabilidad colectiva sin culpabilizar."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"voz"
   }
 ]

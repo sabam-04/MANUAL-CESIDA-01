@@ -1,0 +1,100 @@
+[
+  {
+    "titulo": "Isotipo",
+    "subtitulo": "",
+    "descripcion": [
+      "El rediseño del isotipo de CESIDA parte de una idea esencial: las personas como base de todo cambio colectivo.",
+      "Para representarlo, comenzamos trabajando con cuatro formas simples que simbolizan a los individuos. Cada una de estas formas es única, pero también abierta al vínculo con otras.",
+    "Cuando varias de estas formas se agrupan, generan estructuras más complejas y visualmente ricas. Estas nuevas figuras representan a las organizaciones, es decir, la unión de personas que se apoyan mutuamente para luchar, protegerse, cuidarse y avanzar juntas. Así como las personas forman organizaciones, estas organizaciones también pueden unirse para tener un impacto aún mayor.",
+    "De esa idea nace la forma que da origen al nuevo isotipo de CESIDA: una construcción dinámica que surge de la combinación de cuatro formas complejas (las organizaciones), que juntas componen una figura aún más elaborada. Esta forma no es estática: cambia, evoluciona y se adapta, en alusión a la diversidad, el movimiento constante y la amplitud de miradas que conviven dentro de CESIDA como coordinadora estatal.",
+    "El nuevo isotipo es, por tanto, símbolo de unión y construcción colectiva. Habla de vínculos, objetivos compartidos, cercanía, ayuda mutua, refugio, apoyo, salud, vida y, sobre todo, de la lucha contra el estigma. Porque cuando las personas se unen, no solo se hacen más fuertes, sino que también generan formas nuevas de existir, resistir y transformar su entorno."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"isotipo"
+  },
+  {
+    "titulo": "Logotipo",
+    "subtitulo": "",
+    "descripcion": [
+      "El logotipo de CESIDA utiliza la tipografía Rubik Regular en minúsculas, transmitiendo un tono cercano y accesible.",
+      "En la versión horizontal, el logotipo se sitúa siempre a la derecha del isotipo, alineado verticalmente al centro del mismo, dejando un espacio superior e inferior igual a la medida base X (la forma cuadrada simple que forma el isotipo).",
+      "En la versión vertical, el logotipo se coloca debajo del isotipo, alineado a la izquierda, empezando justo donde comienza el isotipo en ese eje, quedando justificado a la izquierda."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"logotipo"
+  },
+  {
+    "titulo": "Logo dinámico",
+    "subtitulo": "",
+    "descripcion": [
+      "El isotipo de CESIDA no es una forma fija, sino un sistema vivo. Se construye a partir de cuatro módulos base que representan organizaciones unidas, y su combinación genera múltiples versiones posibles del símbolo.",
+        "Esta modularidad permite que el isotipo se adapte visualmente a distintos contextos, especialmente en medios digitales, donde puede variar su forma sin perder su esencia ni su reconocimiento. Cada versión comunica lo mismo: unión, diversidad, transformación.",
+        "Esta flexibilidad no solo amplía las posibilidades gráficas, sino que también refleja la realidad de CESIDA como una red plural, activa y en constante evolución.",
+        "El logotipo deja de ser un sello cerrado para convertirse en un símbolo que se mueve, crece y representa múltiples voces."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"dinamico"
+  },
+  {
+    "titulo": "Área de respeto",
+    "subtitulo": "",
+    "descripcion": [
+      "El área de respeto del imagotipo se basa en la forma cuadrada simple con la que se construyen todas las formas complejas del isotipo. Esta unidad, que definimos como X, actúa como medida base para:",
+      "• Separar el isotipo del logotipo (texto).",
+      "• Definir la altura del logotipo, que debe ajustarse a la medida X para mantener proporción y equilibrio.",
+      "• Establecer un margen mínimo alrededor del conjunto, asegurando visibilidad y claridad en cualquier formato.",
+      "Esta estructura modular refuerza la coherencia del sistema visual y garantiza que el imagotipo mantenga su fuerza y legibilidad en todo tipo de aplicaciones."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"area"
+  },
+  {
+    "titulo": "Submarcas",
+    "subtitulo": "",
+    "descripcion": [
+      "El imagotipo principal de CESIDA puede acompañarse de submarcas que representan las diferentes áreas o proyectos dentro de la organización, como: Formación, Mujer, Salud, Prevención, Derechos y Coordinación.",
+      "Estas submarcas se colocan justo debajo del logotipo, alineadas a la derecha, finalizando a la misma altura que el extremo derecho del logotipo principal, y siempre en minúscula.",
+      "Para asegurar una correcta separación y legibilidad, se añade un espacio vertical basado en la medida base X:",
+      "• Bajo el logotipo se reserva un espacio de 2X de altura.",
+      "• Bajo el isotipo se reserva un espacio de 1X de altura.",
+      "La submarca se sitúa centrada verticalmente en este espacio de 2X bajo el logotipo, manteniendo un equilibrio visual entre ambos elementos.",
+      "El tamaño de las submarcas es menor para mantener la jerarquía visual. Por ejemplo, si el logotipo mide 128 px de altura, las submarcas se presentan a 48 px, lo que corresponde aproximadamente al 37.5% del tamaño del logotipo.",
+      "Esta disposición garantiza claridad, orden y coherencia dentro del sistema visual, destacando la relación entre la marca principal y sus extensiones."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"submarcas"
+  },
+  {
+    "titulo": "Mosca",
+    "subtitulo": "",
+    "descripcion": [
+      "El icono de CESIDA actúa como una “mosca” o elemento distintivo en muchas aplicaciones audiovisuales y digitales. Consiste en una versión sintetizada del imagotipo que mantiene las formas dinámicas y variables del isotipo, con una letra “c” en su interior que representa a la marca de manera clara y reconocible. Este icono facilita la identificación rápida y flexible de la marca en formatos reducidos o en contextos donde se requiere una presencia visual más compacta."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"mosca"
+  },
+  {
+    "titulo": "Color",
+    "subtitulo": "",
+    "descripcion": [
+      "El imagotipo de CESIDA —incluyendo isotipo y logotipo— puede representarse con cualquiera de los colores de la paleta de marca, garantizando versatilidad en distintas aplicaciones.",
+      "En las submarcas, también se permite el uso de toda la paleta, aunque se recomienda priorizar su color identificativo asignado para reforzar su reconocimiento (Ver apartado Color / Color Submarca). Aun así, estas pueden adaptarse cromáticamente al contexto visual sin perder coherencia con el sistema global."
+    ],
+    "images": [""],
+    "layout": "cols-2",
+    "imgLeyenda": "",
+    "id":"logocolor"
+  }
+]
