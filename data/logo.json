@@ -143,7 +143,8 @@
         "titulo": "Mosca",
         "subtitulo": "",
         "descripcion": [
-            "El icono de CESIDA actúa como una “mosca” o elemento distintivo en muchas aplicaciones audiovisuales y digitales. Consiste en una versión sintetizada del imagotipo que mantiene las formas dinámicas y variables del isotipo, con una letra “c” en su interior que representa a la marca de manera clara y reconocible. Este icono facilita la identificación rápida y flexible de la marca en formatos reducidos o en contextos donde se requiere una presencia visual más compacta."
+            "Cesida también posee un icono que actúa como una “mosca” o distintivo visual adaptable a múltiples aplicaciones, especialmente en entornos digitales y audiovisuales. Este icono consiste en una versión sintetizada del imagotipo, manteniendo las formas dinámicas y cambiantes del isotipo, pero en un formato más compacto y funcional.",
+            "Para su construcción, se puede utilizar cualquier forma base, siempre que se respete un área de seguridad mínima equivalente a un módulo. En el centro de esta forma se coloca una letra “C” extraída del logotipo, que se reduce para ajustarse a un cuadrado de 6x6 módulos (en lugar del módulo original de 4x4). Para centrarla con precisión, es necesario desactivar el ajuste a la cuadrícula. Finalmente, mediante la herramienta ‘menos frente’ del buscatrazos, se recorta la letra dentro de la forma, generando así un icono claro y reconocible."
         ],
         "layout": "cols-1",
         "id": "mosca",
