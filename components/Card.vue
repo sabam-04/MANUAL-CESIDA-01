@@ -55,7 +55,7 @@ const imageContainerClass = computed(() => {
         </div>
 
         <div v-if="botonTexto" class="cardButton">
-            <Button :text="botonTexto" />
+            <Button :text="botonTexto"></Button>
         </div>
     </div>
 </template>

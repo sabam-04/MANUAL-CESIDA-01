@@ -5,14 +5,22 @@
     "descripcion": [
       "CESIDA es la Coordinadora Estatal de VIH y Sida, la entidad más representativa del movimiento ciudadano relacionado con el VIH y el sida en España. Desde su fundación en 2002, CESIDA ha trabajado por la defensa de los derechos, la visibilidad y la dignidad de las personas con VIH, con presencia en 17 comunidades autónomas y una red de más de 120 organizaciones asociadas.",
       "Su historia comienza el 13 de junio de 2002, con la constitución oficial de la entidad tras un proceso impulsado por 25 organizaciones. Ese mismo año, en noviembre, celebró su primer Congreso Estatal en Córdoba, marcando un hito en la consolidación de su estructura y objetivos.",
-    "Actualmente, CESIDA es un referente para asociaciones, entidades públicas y privadas, y agentes sociales que abordan la realidad del VIH en España, siendo también un punto clave de información, coordinación y apoyo para personas con VIH y sus entornos.",
-    "Este rediseño de identidad visual es un proyecto educativo de diseño gráfico desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi en el marco de la Escuela Superior de Diseño de Madrid (ESDM), en colaboración con CESIDA.",
-    "El objetivo del rebranding es refrescar la imagen visual de CESIDA sin perder su esencia: visibilizar sin estigmatizar, comunicar desde la cercanía y reforzar su papel como red de apoyo, defensa e información. La nueva identidad apuesta por un sistema modular, accesible y dinámico, que refleja la diversidad, inclusión y fuerza colectiva que define a la organización."
+      "Actualmente, CESIDA es un referente para asociaciones, entidades públicas y privadas, y agentes sociales que abordan la realidad del VIH en España, siendo también un punto clave de información, coordinación y apoyo para personas con VIH y sus entornos.",
+      "Este rediseño de identidad visual es un proyecto educativo de diseño gráfico desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi en el marco de la Escuela Superior de Diseño de Madrid (ESDM), en colaboración con CESIDA.",
+      "El objetivo del rebranding es refrescar la imagen visual de CESIDA sin perder su esencia: visibilizar sin estigmatizar, comunicar desde la cercanía y reforzar su papel como red de apoyo, defensa e información. La nueva identidad apuesta por un sistema modular, accesible y dinámico, que refleja la diversidad, inclusión y fuerza colectiva que define a la organización."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"historia"
+    "id": "historia",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Principios",
@@ -24,10 +32,18 @@
       "• Inclusión : En Cesida se busca eliminar el estigma y la discriminación. Es un refugio para todo tipo de personas de caminos, orientaciones sexuales, estatus diversos. Aquí todos son igual de importantes.",
       "• Unión : Cesida no solo informa o acompaña, también construye redes. Une personas, asociaciones, territorios y experiencias en torno a un objetivo común: vivir con dignidad. Cada vínculo refuerza la lucha compartida, y en esa conexión está su fuerza transformadora."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"principios"
+    "id": "principios",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Misión",
@@ -35,10 +51,18 @@
     "descripcion": [
       "La Coordinadora Estatal de VIH-sida (CESIDA) es una plataforma no lucrativa y no gubernamental que agrupa asociaciones del Estado español dedicadas a la lucha contra el VIH y el sida. Su misión es promover la participación ciudadana y comunitaria en el diseño y ejecución de políticas integrales que aborden la realidad del VIH, facilitando el acceso a información, atención y apoyo a través de su red de entidades."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"mision"
+    "id": "mision",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Visión",
@@ -52,10 +76,18 @@
       "Intervenir activamente en políticas sociales, de salud, género y derechos humanos.",
       "Desarrollar iniciativas que mejoren la calidad de vida de las personas afectadas."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"vision"
+    "id": "vision",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Valores",
@@ -67,10 +99,18 @@
       "• Responsabilidad social: Lucha contra el estigma y promueve los derechos humanos.",
       "• Colaboración: Funciona como una red de apoyo mutuo entre entidades y personas."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"valores"
+    "id": "valores",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Tono",
@@ -78,10 +118,18 @@
     "descripcion": [
       "Optimista, empático y propositivo. Usa un lenguaje cotidiano, directo, accesible y a veces con toques de humor sutil."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"tono"
+    "id": "tono",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   },
   {
     "titulo": "Voz",
@@ -89,9 +137,17 @@
     "descripcion": [
       "Cercana, informada y confiable. Nunca condescendiente. Busca hablar contigo, no sobre ti. Humaniza el VIH sin caer en dramatismos, apelando a la responsabilidad colectiva sin culpabilizar."
     ],
-    "images": [""],
     "layout": "cols-2",
-    "imgLeyenda": "",
-    "id":"voz"
+    "id": "voz",
+    "media": [
+      {
+        "type": "image",
+        "src": "",
+        "caption": "",
+        "layout": "row"
+      }
+    ],
+    "showButton": false,
+    "botonTexto": ""
   }
 ]
