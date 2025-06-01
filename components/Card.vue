@@ -18,7 +18,8 @@ const { titulo, subtitulo, descripcion, images, layout, imgLeyenda, id } = defin
         default: 'auto'
     },
     imgLeyenda: String,
-    id: String
+    id: String,
+    botonTexto: String
 })
 
 const imageContainerClass = computed(() => {
@@ -49,7 +50,6 @@ const imageContainerClass = computed(() => {
 
                 <video v-else-if="item.type === 'video'" controls class="media-element">
                     <source :src="item.src" type="video/mp4" />
-                    Tu navegador no soporta el video.
                 </video>
             </div>
         </div>
