@@ -11,13 +11,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
-  "showButton": true,
-  "botonTexto": "Descargar paleta"
+  "showButton": false,
+  "botonTexto": ""
   },
   {
     "titulo": "Colores",
@@ -31,13 +31,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
-  "showButton": true,
-  "botonTexto": "Descargar paleta"
+  "showButton": false,
+  "botonTexto": ""
   },
   {
     "titulo": "Colores",
@@ -51,13 +51,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
-  "showButton": true,
-  "botonTexto": "Descargar paleta"
+  "showButton": false,
+  "botonTexto": ""
   },
   {
     "titulo": "Escala de gris",
@@ -70,13 +70,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
-  "showButton": true,
-  "botonTexto": "Descargar paleta"
+  "showButton": false,
+  "botonTexto": ""
   },
   {
     "titulo": "Submarca",
@@ -94,12 +94,12 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
   "showButton": false,
-  "botonTexto": "Descargar paleta"
+  "botonTexto": ""
   }
 ]

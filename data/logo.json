@@ -9,12 +9,22 @@
             "De esa idea nace la forma que da origen al nuevo isotipo de CESIDA: una construcción dinámica que surge de la combinación de cuatro formas complejas (las organizaciones), que juntas componen una figura aún más elaborada. Esta forma no es estática: cambia, evoluciona y se adapta, en alusión a la diversidad, el movimiento constante y la amplitud de miradas que conviven dentro de CESIDA como coordinadora estatal.",
             "El nuevo isotipo es, por tanto, símbolo de unión y construcción colectiva. Habla de vínculos, objetivos compartidos, cercanía, ayuda mutua, refugio, apoyo, salud, vida y, sobre todo, de la lucha contra el estigma. Porque cuando las personas se unen, no solo se hacen más fuertes, sino que también generan formas nuevas de existir, resistir y transformar su entorno."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "isotipo",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo1.png",
+                "caption": "",
+                "layout": "row"
+            },{
+                "type": "image",
+                "src": "img/logo/Logo2.png",
+                "caption": "",
+                "layout": "row"
+            },{
+                "type": "image",
+                "src": "img/logo/Logo3.png",
                 "caption": "",
                 "layout": "row"
             }
@@ -30,12 +40,22 @@
             "En la versión horizontal, el logotipo se sitúa siempre a la derecha del isotipo, alineado verticalmente al centro del mismo, dejando un espacio superior e inferior igual a la medida base X (la forma cuadrada simple que forma el isotipo).",
             "En la versión vertical, el logotipo se coloca debajo del isotipo, alineado a la izquierda, empezando justo donde comienza el isotipo en ese eje, quedando justificado a la izquierda."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "logotipo",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo4.png",
+                "caption": "",
+                "layout": "row"
+            },{
+                "type": "image",
+                "src": "img/logo/Logo5.png",
+                "caption": "",
+                "layout": "row"
+            },{
+                "type": "image",
+                "src": "img/logo/Logo6.png",
                 "caption": "",
                 "layout": "row"
             }
@@ -52,12 +72,17 @@
             "Esta flexibilidad no solo amplía las posibilidades gráficas, sino que también refleja la realidad de CESIDA como una red plural, activa y en constante evolución.",
             "El logotipo deja de ser un sello cerrado para convertirse en un símbolo que se mueve, crece y representa múltiples voces."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "dinamico",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo7.png",
+                "caption": "",
+                "layout": "row"
+            },{
+                "type": "video",
+                "src": "img/logo/Logo8.mp4",
                 "caption": "",
                 "layout": "row"
             }
@@ -75,12 +100,12 @@
             "• Establecer un margen mínimo alrededor del conjunto, asegurando visibilidad y claridad en cualquier formato.",
             "Esta estructura modular refuerza la coherencia del sistema visual y garantiza que el imagotipo mantenga su fuerza y legibilidad en todo tipo de aplicaciones."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "area",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo9.png",
                 "caption": "",
                 "layout": "row"
             }
@@ -101,12 +126,12 @@
             "El tamaño de las submarcas es menor para mantener la jerarquía visual. Por ejemplo, si el logotipo mide 128 px de altura, las submarcas se presentan a 48 px, lo que corresponde aproximadamente al 37.5% del tamaño del logotipo.",
             "Esta disposición garantiza claridad, orden y coherencia dentro del sistema visual, destacando la relación entre la marca principal y sus extensiones."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "submarcas",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo10.png",
                 "caption": "",
                 "layout": "row"
             }
@@ -120,12 +145,12 @@
         "descripcion": [
             "El icono de CESIDA actúa como una “mosca” o elemento distintivo en muchas aplicaciones audiovisuales y digitales. Consiste en una versión sintetizada del imagotipo que mantiene las formas dinámicas y variables del isotipo, con una letra “c” en su interior que representa a la marca de manera clara y reconocible. Este icono facilita la identificación rápida y flexible de la marca en formatos reducidos o en contextos donde se requiere una presencia visual más compacta."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "mosca",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo11.png",
                 "caption": "",
                 "layout": "row"
             }
@@ -140,12 +165,12 @@
             "El imagotipo de CESIDA —incluyendo isotipo y logotipo— puede representarse con cualquiera de los colores de la paleta de marca, garantizando versatilidad en distintas aplicaciones.",
             "En las submarcas, también se permite el uso de toda la paleta, aunque se recomienda priorizar su color identificativo asignado para reforzar su reconocimiento (Ver apartado Color / Color Submarca). Aun así, estas pueden adaptarse cromáticamente al contexto visual sin perder coherencia con el sistema global."
         ],
-        "layout": "cols-2",
+        "layout": "cols-1",
         "id": "logocolor",
         "media": [
             {
                 "type": "image",
-                "src": "",
+                "src": "img/logo/Logo12.png",
                 "caption": "",
                 "layout": "row"
             }

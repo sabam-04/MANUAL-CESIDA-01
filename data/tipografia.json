@@ -10,13 +10,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
   "showButton": false,
-  "botonTexto": "Descargar paleta"
+  "botonTexto": ""
   },
   {
     "titulo": "Tipografía",
@@ -31,13 +31,13 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
   "showButton": false,
-  "botonTexto": "Descargar paleta"
+  "botonTexto": ""
   },
   {
     "titulo": "Tipografía",
@@ -52,12 +52,12 @@
     "media": [
       {
       "type": "image",
-      "src": "/img/CESIDA_Logo.svg",
-      "caption": "Logo de Cesida",
+      "src": "",
+      "caption": "",
       "layout": "row"
       }
     ],
   "showButton": false,
-  "botonTexto": "Descargar paleta"
+  "botonTexto": ""
   }
 ]
