@@ -9,12 +9,12 @@
       "Este rediseño de identidad visual es un proyecto educativo de diseño gráfico desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi en el marco de la Escuela Superior de Diseño de Madrid (ESDM), en colaboración con CESIDA.",
       "El objetivo del rebranding es refrescar la imagen visual de CESIDA sin perder su esencia: visibilizar sin estigmatizar, comunicar desde la cercanía y reforzar su papel como red de apoyo, defensa e información. La nueva identidad apuesta por un sistema modular, accesible y dinámico, que refleja la diversidad, inclusión y fuerza colectiva que define a la organización."
     ],
-    "layout": "cols-2",
+    "layout": "cols-1",
     "id": "historia",
     "media": [
       {
         "type": "image",
-        "src": "",
+        "src": "img/marca/Marca1.png",
         "caption": "",
         "layout": "row"
       }
@@ -32,12 +32,12 @@
       "• Inclusión : En Cesida se busca eliminar el estigma y la discriminación. Es un refugio para todo tipo de personas de caminos, orientaciones sexuales, estatus diversos. Aquí todos son igual de importantes.",
       "• Unión : Cesida no solo informa o acompaña, también construye redes. Une personas, asociaciones, territorios y experiencias en torno a un objetivo común: vivir con dignidad. Cada vínculo refuerza la lucha compartida, y en esa conexión está su fuerza transformadora."
     ],
-    "layout": "cols-2",
+    "layout": "cols-1",
     "id": "principios",
     "media": [
       {
         "type": "image",
-        "src": "",
+        "src": "img/marca/Marca2.png",
         "caption": "",
         "layout": "row"
       }
@@ -51,7 +51,7 @@
     "descripcion": [
       "La Coordinadora Estatal de VIH-sida (CESIDA) es una plataforma no lucrativa y no gubernamental que agrupa asociaciones del Estado español dedicadas a la lucha contra el VIH y el sida. Su misión es promover la participación ciudadana y comunitaria en el diseño y ejecución de políticas integrales que aborden la realidad del VIH, facilitando el acceso a información, atención y apoyo a través de su red de entidades."
     ],
-    "layout": "cols-2",
+    "layout": "cols-1",
     "id": "mision",
     "media": [
       {
@@ -69,12 +69,12 @@
     "subtitulo": "",
     "descripcion": [
       "CESIDA aspira a consolidarse como la organización de referencia a nivel estatal e internacional en la representación del movimiento ciudadano contra el VIH. Su visión se basa en:",
-      "Coordinar y representar a las entidades sociales involucradas.",
-      "Luchar contra la discriminación hacia personas con VIH.",
-      "Prevenir nuevas transmisiones mediante la información y la sensibilización.",
-      "Visibilizar y normalizar la realidad de las personas que viven con el virus.",
-      "Intervenir activamente en políticas sociales, de salud, género y derechos humanos.",
-      "Desarrollar iniciativas que mejoren la calidad de vida de las personas afectadas."
+      "-Coordinar y representar a las entidades sociales involucradas.",
+      "-Luchar contra la discriminación hacia personas con VIH.",
+      "-Prevenir nuevas transmisiones mediante la información y la sensibilización.",
+      "-Visibilizar y normalizar la realidad de las personas que viven con el virus.",
+      "-Intervenir activamente en políticas sociales, de salud, género y derechos humanos.",
+      "-Desarrollar iniciativas que mejoren la calidad de vida de las personas afectadas."
     ],
     "layout": "cols-2",
     "id": "vision",
@@ -137,12 +137,12 @@
     "descripcion": [
       "Cercana, informada y confiable. Nunca condescendiente. Busca hablar contigo, no sobre ti. Humaniza el VIH sin caer en dramatismos, apelando a la responsabilidad colectiva sin culpabilizar."
     ],
-    "layout": "cols-2",
+    "layout": "cols-21",
     "id": "voz",
     "media": [
       {
         "type": "image",
-        "src": "",
+        "src": "img/marca/Marca3.png",
         "caption": "",
         "layout": "row"
       }
