@@ -1,20 +1,92 @@
 [
   {
-    "titulo": "Introducción",
-    "subtitulo": "Identidad visual de Cesida",
+    "titulo": "Tratamiento fotográfico",
+    "subtitulo": "",
     "descripcion": [
-      "¡Bienvenidx!",
-      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
-      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
-      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
-      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
+      "La fotografía en CESIDA es una herramienta fundamental para transmitir humanidad, cercanía y diversidad. Su tratamiento se basa en mostrar personas reales, sin filtros ni artificios innecesarios, reflejando la pluralidad de cuerpos, edades, géneros, orígenes y situaciones.",
+      "Se priorizan retratos en planos medios o cercanos, bien iluminados, con especial atención a la expresión y la conexión emocional del sujeto con la cámara. Las imágenes deben contar algo, generar empatía, y contribuir a romper el estigma en torno al VIH desde una narrativa visual respetuosa, optimista y digna.",
+      "Se recomienda:",
+      "* Utilizar imágenes en alta resolución, nítidas y bien expuestas.",
+      "* Evitar fondos caóticos o con exceso de elementos que distraigan.",
+      "* Borrar el fondo si es necesario, sustituyéndolo por un fondo plano de color perteneciente a la paleta de marca, para unificar recursos en medios digitales o impresos.",
+      "* En el caso de eventos, se permiten fotografías más espontáneas, siempre que respeten la limpieza visual y permitan identificar correctamente a las personas o situaciones retratadas."
     ],
     "layout": "cols-1",
-    "id": "",
+    "id": "tfotografia",
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/fotografia/Fotografia1.jpg",
+      "caption": "",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Estilo gráfico y compositivo",
+    "subtitulo": "",
+    "descripcion": [
+      "El universo visual de CESIDA se enriquece con recursos gráficos propios desarrollados a partir de las formas modulares creadas para la construcción del sistema de identidad. Estas formas, derivadas del isotipo, funcionan como elementos compositivos versátiles que permiten crear:",
+      "* Marcos para fotografía.",
+      "* Patrones gráficos.",
+      "* Fondos y superposiciones visuales.",
+      "* Ilustraciones adaptativas.",
+      "Este lenguaje gráfico permite mantener una coherencia visual a lo largo de las diferentes aplicaciones, a la vez que dota a la marca de dinamismo, diversidad y flexibilidad."
+    ],
+    "layout": "cols-1",
+    "id": "estfotografia",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/fotografia/Fotografia2.jpg",
+      "caption": "",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Ilustraciones y visuales alternativos",
+    "subtitulo": "",
+    "descripcion": [
+      "Uno de los hitos visuales del rediseño ha sido la creación de ilustraciones moduladas a partir de las formas gráficas de la marca. Estas ilustraciones no solo funcionan como un recurso estético, sino también como un canal narrativo, como se ve reflejado en la campaña del videojuego interactivo, donde el usuario construye su mundo a medida que avanza, pieza a pieza, utilizando estos módulos como elementos fundamentales.",
+      "Estas ilustraciones tienen múltiples usos:",
+      "* Refuerzan mensajes de campañas.",
+      "* Acompañan contenidos digitales e impresos.",
+      "* Sirven como metáfora visual del crecimiento, el acompañamiento y la construcción colectiva."
+    ],
+    "layout": "cols-1",
+    "id": "ilufotografia",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/fotografia/Fotografia3.jpg",
+      "caption": "",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Principios visuales generales",
+    "subtitulo": "",
+    "descripcion": [
+      "* Unidad: Todas las imágenes deben convivir armónicamente con el sistema gráfico.",
+      "* Diversidad: Representar la variedad de realidades dentro del movimiento VIH.",
+      "* Limpieza visual: Composición clara, sin sobrecarga de elementos.",
+      "* Adaptabilidad: Capacidad de integración en distintos formatos y plataformas.",
+      "* Emotividad: Generar conexión, empatía y reflexión."
+    ],
+    "layout": "cols-1",
+    "id": "prinfotografia",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/fotografia/Fotografia4.jpg",
       "caption": "",
       "layout": "row"
       }

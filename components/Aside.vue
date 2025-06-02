@@ -61,8 +61,10 @@ import MenuButton from './MenuButton.vue'
             ]" />
 
             <MenuButton label="Fotografía" to="/fotografia" :submenu="[
-                { label: 'Tipo de fotografía', href: '/fotografia#tipofoto' },
-                { label: 'Edición', href: '/fotografia#edicionfoto' },
+                { label: 'Tratamiento fotográfico', href: '/fotografia#tfotografia' },
+                { label: 'Estilo gráfico y compositivo', href: '/fotografia#estfotografia' },
+                { label: 'Ilustraciones y visuales alternativos', href: '/fotografia#ilufotografia' },
+                { label: 'Principios visuales generales', href: '/fotografia#prinfotografia' },
             ]" />
 
             <MenuButton label="Motion" to="/motion" :submenu="[
