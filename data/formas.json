@@ -1,25 +1,169 @@
 [
-  {
-    "titulo": "Introducción",
-    "subtitulo": "Identidad visual de Cesida",
-    "descripcion": [
-      "¡Bienvenidx!",
-      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
-      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
-      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
-      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
-    ],
-    "layout": "cols-1",
-    "id": "",
-    "media": [
+ {
+   "titulo": "Formas y Patrones",
+   "subtitulo": "",
+   "descripcion": [
+     "El sistema gráfico de CESIDA se basa en las formas que componen el logotipo, que actúan como elementos visuales versátiles y reconocibles. Estas formas, derivadas tanto de las estructuras simples como de las complejas del isotipo, pueden emplearse en múltiples aplicaciones para reforzar la identidad visual y aportar dinamismo a la comunicación.",
+     "Estas formas no solo derivan de la estructura geométrica del isotipo, sino que también se expanden en una lógica de construcción flexible, capaz de generar composiciones visuales potentes, accesibles y significativas."   
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas1.jpg",
+     "caption": "",
+     "layout": "column"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
+ {
+   "titulo": "Formas",
+   "subtitulo": "",
+   "descripcion": [
+     "Las formas que conforman el logotipo tanto en su versión básica como en variaciones más complejas son la base del sistema visual. La geometría precisa y adaptable de estas formas permite su integración tanto en medios digitales como impresos, facilitando la creación de un lenguaje unificado.  Estas unidades gráficas pueden ser utilizadas de forma aislada o combinada, según el propósito comunicativo. Sus usos más frecuentes incluyen:"
+   ],
+   "layout": "cols-1",
+   "id": "formas",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas2.jpg",
+     "caption": "",
+     "layout": "column"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
+ {
+   "titulo": "Uso",
+   "subtitulo": " ",
+   "descripcion": [
+     ""
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas3.jpg",
+     "caption": "Contenedores visuales: Para estructurar imágenes o encuadrar bloques de texto, creando jerarquías claras y composiciones ordenadas.",
+     "layout": "row"
+     },
       {
-      "type": "image",
-      "src": "",
-      "caption": "",
-      "layout": "row"
-      }
-    ],
-  "showButton": false,
-  "botonTexto": ""
-  }
-]
+     "type": "image",
+     "src": "img/formas/Formas4.jpg",
+     "caption": "Elementos gráficos decorativos: Que enriquecen el diseño, aportan ritmo visual y refuerzan el tono emocional de las piezas.",
+     "layout": "row"
+     },
+      {
+     "type": "image",
+     "src": "img/formas/Formas5.jpg",
+     "caption": "Recursos de fondo o overlays: Que acompañan sin competir con el contenido principal, aportando identidad sutil y reconocimiento visual.",
+     "layout": "row"
+     },
+      {
+     "type": "image",
+     "src": "img/formas/Formas6.jpg",
+     "caption": "Superposiciones: Las formas pueden solaparse con el modo de fusión ‘exclusión’ en Adobe Illustrator. Este uso recalca el valor de ‘inclusividad’.",
+     "layout": "row"
+     },
+      {
+     "type": "image",
+     "src": "img/formas/Formas7.jpg",
+     "caption": "Contornos desplazados: Se pueden aplicar desplazamientos de contornos repetidos al crear un trazado compuesto de varias formas en Adobe Illustrator.",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
+ {
+   "titulo": "Patrones",
+   "subtitulo": "",
+   "descripcion": [
+     "A partir de la repetición, rotación y escala de estas formas básicas, se generan patrones gráficos que actúan como extensiones expresivas del sistema visual. Gracias a su modularidad, estos patrones pueden adaptarse al tono de cada mensaje: desde fondos sobrios en contextos institucionales, hasta composiciones vibrantes y llenas de movimiento en campañas activistas o sociales."
+   ],
+   "layout": "cols-1",
+   "id": "patrones",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas8.jpg",
+     "caption": "",
+     "layout": "column"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
+ {
+   "titulo": "",
+   "subtitulo": "",
+   "descripcion": [
+     ""
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas9.jpg",
+     "caption": "Reforzar la estética de la marca en fondos, portadas o transiciones. Ser personalizados por submarca, conservando la lógica modular general del sistema.",
+     "layout": "row"
+     },
+     {
+     "type": "image",
+     "src": "img/formas/Formas10.jpg",
+     "caption": "Servir como recurso decorativo en materiales editoriales o digitales.",
+     "layout": "row"
+     },
+     {
+     "type": "video",
+     "src": "img/formas/Transición_Patron_2def.mp4",
+     "caption": "Así como transiciones en materiales audiovisuales.�",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+  {
+   "titulo": "Comportamiento",
+   "subtitulo": "",
+   "descripcion": [
+     "El comportamiento de estas formas dentro del sistema visual sigue un principio claro: adaptabilidad con coherencia. Este enfoque garantiza que CESIDA proyecte una identidad cohesionada y reconocible, pero también cercana, adaptable y contemporánea, alineada con su papel como red activa y plural. Las formas y patrones pueden comportarse de las siguientes maneras:"
+   ],
+   "layout": "cols-1",
+   "id": "fcomportamientos",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/formas/Formas12.jpg",
+     "caption": "Escalarse o fragmentarse: Manteniendo sus proporciones.",
+     "layout": "row"
+     },
+
+
+     {
+     "type": "image",
+     "src": "img/formas/Formas13.jpg",
+     "caption": "Interaccionar con la fotografía y el color: Sin interferir en la legibilidad. Actuar como lenguaje propio para campañas: Permitiendo la creatividad sin perder el vínculo con la marca madre.",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ }
+ ]

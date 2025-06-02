@@ -1,25 +1,144 @@
-[
+
+ [
+ {
+   "titulo": "Layout",
+   "subtitulo": "Visión general",
+   "descripcion": [
+     "El sistema de layout sitúa a las personas en el centro, construyendo composiciones visuales que refuerzan los valores de la marca Cesida. Su estructura modular permite disponer los recursos de forma flexible pero coherente, adaptándose a múltiples formatos y contenidos sin perder identidad."
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "",
+     "caption": "",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
+ {
+   "titulo": "Grid",
+   "subtitulo": "Principal",
+   "descripcion": [
+     "La retícula base es modular y flexible. Está compuesta por 12 columnas y 6 filas, con márgenes equivalentes a un módulo (originalmente de 36×36 px, escalable según el balance óptico). Incorpora una retícula subyacente con subdivisiones adicionales que permite mayor precisión y adaptabilidad en la maquetación.",
+     "Esta estructura puede escalarse para ajustarse a distintos formatos, siempre que se respete la proporción original y se mantengan las 12×6 divisiones junto con sus márgenes."
+   ],
+   "layout": "cols-1",
+   "id": "reticula",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/layout/Layout1.jpg",
+     "caption": "",
+     "layout": "column"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+   {
+   "titulo": "",
+   "subtitulo": "",
+   "descripcion": [
+     ""
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/layout/Layout2.jpg",
+     "caption": "Los márgenes están determinados por el módulo cuadrado que define el área de respeto del logotipo. Cuando se utiliza el logotipo en su versión reducida, esta zona de seguridad debe mantenerse para conservar su legibilidad y presencia.",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+
+
   {
-    "titulo": "Introducción",
-    "subtitulo": "Identidad visual de Cesida",
-    "descripcion": [
-      "¡Bienvenidx!",
-      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
-      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
-      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
-      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
-    ],
-    "layout": "cols-1",
-    "id": "",
-    "media": [
+   "titulo": "",
+   "subtitulo": "",
+   "descripcion": [
+     ""
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "img/layout/Layout3.1.jpg",
+     "caption": "Los textos en las composiciones pueden colocarse en tres posiciones principales: Parte superior, Centro, Parte inferior. La elección dependerá del contenido, el formato y la jerarquía visual deseada.",
+     "layout": "row"
+     },
       {
-      "type": "image",
-      "src": "",
-      "caption": "",
-      "layout": "row"
-      }
-    ],
-  "showButton": false,
-  "botonTexto": ""
-  }
+     "type": "image",
+     "src": "img/layout/Layout4.jpg",
+     "caption": "Algunos ejemplos de composiciones con titulos en la parte superior, centro e inferior.",
+     "layout": "column"
+     },
+      {
+     "type": "image",
+     "src": "img/layout/Layout5.jpg",
+     "caption": "En formato horizontal los rótulos pueden ubicarse en la parte inferior o superior. Por lo general la mosca aparece en la esquina superior izquierda.",
+     "layout": "row"
+     },
+     {
+     "type": "image",
+     "src": "img/layout/Layout6.jpg",
+     "caption": "Pueden estar ya sea de lado derecho o izquierdo. Sirven para rótulos informativos sobre personas y eventos.",
+     "layout": "row"
+     },
+     {
+     "type": "image",
+     "src": "img/layout/Layout7.1.jpg",
+     "caption": "Un ejemplo de rótulo en formato horizontal junto con la mosca.",
+     "layout": "column"
+     },
+     {
+     "type": "image",
+     "src": "img/layout/Layout8.jpg",
+     "caption": "Las cartelas con textos más protagonistas se ubican de esta manera dejando un margen de una celda.",
+     "layout": "row"
+     },
+     {
+     "type": "image",
+     "src": "img/layout/Layout9.jpg",
+     "caption": "Pueden ubicarse ya sea de lado derecho o izquierdo.",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ },
+  {
+   "titulo": "Recomendaciones",
+   "subtitulo": "",
+   "descripcion": [
+     "Todos los elementos —logotipo, tipografía, imágenes y gráficos— deben alinearse a la retícula. Es esencial garantizar que el espacio entre elementos sea igual o mayor que el margen base, para asegurar una composición clara y ordenada.",
+     "Se recomienda limitar el uso a no más de tres tamaños de texto por composición. Debe mantenerse un contraste visual claro entre títulos y cuerpo de texto para facilitar la lectura y reforzar la jerarquía visual.",
+     "Utilizar titulares breves y descripciones concisas para garantizar una comunicación directa.",
+     "Mantener un contraste suficiente entre tamaños de texto, imágenes y gráficos.",
+     "Priorizar siempre la claridad, legibilidad y coherencia visual en todas las piezas."
+   ],
+   "layout": "cols-1",
+   "id": "",
+   "media": [
+     {
+     "type": "image",
+     "src": "",
+     "caption": "",
+     "layout": "row"
+     }
+   ],
+ "showButton": false,
+ "botonTexto": ""
+ }
+
 ]
