@@ -34,6 +34,24 @@
       "src": "img/color/Color2.png",
       "caption": "",
       "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/color/Color3.png",
+      "caption": "Emociones asociadas a cada color",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/color/Color4.png",
+      "caption": "Porcentaje orientativo de uso. Para mantener el equilibrio visual y asegurar la coherencia del sistema. El lila actúa como color dominante, con una mayor presencia en soportes clave por su capacidad de transmitir confianza, inclusión y visibilidad.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/color/Color5.png",
+      "caption": "Combinaciones permitidas y no recomendadas. Se han establecido combinaciones cromáticas que garantizan legibilidad, armonía y contraste adecuado. La mezcla entre colores debe atender a criterios de accesibilidad y jerarquía visual. ",
+      "layout": "column"
       }
     ],
   "showButton": false,
@@ -87,7 +105,13 @@
       "Este color se utiliza con mayor peso en sus respectivas secciones en elementos como botones, encabezados o íconos, reforzando el reconocimiento sin fragmentar la marca principal.",
       "El enfoque flexible de este sistema permite incorporar nuevas submarcas en el futuro sin perder consistencia, preservando la diversidad, modularidad y escalabilidad de la identidad visual de CESIDA.",
       "Este tratamiento cromático responde al objetivo de crear una red visual coherente pero diversa, capaz de reflejar la amplitud y riqueza del trabajo de la organización en sus diferentes ámbitos de intervención.",
-      "Los colores asignados actualmente son:"
+      "Los colores asignados actualmente son:",
+      "* Formación → Rosa",
+      "* Mujer → Lila",
+      "* Salud → Verde",
+      "* Prevención → Naranja",
+      "* Derechos → Amarillo",
+      "* Coordinación → Magenta"
     ],
     "layout": "cols-1",
     "id": "csubmarca",
@@ -97,8 +121,15 @@
       "src": "img/color/Color9.png",
       "caption": "",
       "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "",
+      "caption": "Este color se utiliza con mayor peso en sus respectivas secciones en elementos como botones, encabezados o íconos, reforzando el reconocimiento sin fragmentar la marca principal. El enfoque flexible de este sistema permite incorporar nuevas submarcas en el futuro sin perder consistencia, preservando la diversidad, modularidad y escalabilidad de la identidad visual de CESIDA. Este tratamiento cromático responde al objetivo de crear una red visual coherente pero diversa, capaz de reflejar la amplitud y riqueza del trabajo de la organización en sus diferentes ámbitos de intervención.",
+      "layout": "column"
       }
     ],
+
   "showButton": false,
   "botonTexto": ""
   }

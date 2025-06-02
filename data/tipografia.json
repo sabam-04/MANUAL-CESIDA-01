@@ -10,7 +10,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/tipografia/Tipografia1.png",
       "caption": "",
       "layout": "row"
       }
@@ -31,7 +31,7 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/tipografia/Tipografia2.png",
       "caption": "",
       "layout": "row"
       }
@@ -52,8 +52,151 @@
     "media": [
       {
       "type": "image",
-      "src": "",
+      "src": "img/tipografia/Tipografia3.png",
       "caption": "",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Pesos",
+    "subtitulo": "",
+    "descripcion": [
+      "El uso correcto de los pesos en las tipografías de CESIDA es clave para mantener la jerarquía, claridad y consistencia en todos los materiales de comunicación. Tanto Rubik como Space Grotesk cuentan con una amplia gama de pesos que permiten crear estructuras visuales equilibradas sin recurrir a demasiadas variaciones formales."
+    ],
+    "layout": "cols-1",
+    "id": "pesos",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia4.png",
+      "caption": "",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "",
+    "subtitulo": "Rubik",
+    "descripcion": [
+      "Como tipografía principal, Rubik se utiliza en diferentes pesos para adaptarse a distintos niveles de información:"
+    ],
+    "layout": "cols-1",
+    "id": "pesos",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia5.png",
+      "caption": "Rubik Regular. Para cuerpos de texto y párrafos largos. Su legibilidad y neutralidad lo hacen ideal para contenidos informativos.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia6.png",
+      "caption": "Rubik Medium. Para subtítulos o textos destacados dentro del cuerpo.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia7.png",
+      "caption": "Rubik Bold. Reservado para títulos, encabezados y elementos que requieran mayor presencia visual.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia8.png",
+      "caption": "Rubik Light. Puede utilizarse en bloques de texto secundarios o en materiales que requieran una apariencia más liviana y aireada",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "",
+    "subtitulo": "Space Grotesk",
+    "descripcion": [
+      "Space Grotesk se emplea con una lógica más expresiva y se recomienda su uso en los siguientes pesos:"
+    ],
+    "layout": "cols-1",
+    "id": "pesos",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia9.png",
+      "caption": "Space Grotesk Bold o SemiBold. Para títulos, palabras clave o llamadas de atención.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia10.png",
+      "caption": "Space Grotesk Regular. Para textos cortos decorativos o destacados más sutiles.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia11.png",
+      "caption": "Nota. Para mantener la coherencia y accesibilidad, se recomienda no abusar de los pesos más ligeros o más pesados (como ExtraLight o Black), especialmente en tamaños pequeños o textos extensos. Este sistema de pesos contribuye a una lectura fluida y una identidad visual sólida, adaptable tanto a medios digitales como impresos, sin perder claridad ni impacto.",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Jerarquía de tipos",
+    "subtitulo": "",
+    "descripcion": [
+      "En la identidad visual de CESIDA, la jerarquía se construye principalmente combinando las dos tipografías corporativas —Rubik y Space Grotesk—, junto con una aplicación consciente de tamaños, pesos y espaciados.",
+      "Niveles recomendados:"
+    ],
+    "layout": "cols-1",
+    "id": "jerarquia",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia12.png",
+      "caption": "",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia13.png",
+      "caption": "Título principal (H1). Space Grotesk Bold o Semibold. Tamaño grande (48–64 px en digital / 24–36 pt en impreso). Uso: nombres de secciones, carteles, portadas, titulares.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia14.png",
+      "caption": "Subtítulo o destacados (H2 / H3). Rubik Bold o Medium. Tamaño intermedio (24–36 px / 14–18 pt). Uso: introducciones, frases clave, encabezados de bloque.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia15.png",
+      "caption": "Texto base / cuerpo (Párrafos). Rubik Regular. Tamaño legible (16–20 px / 10–12 pt)  Uso: textos informativos, descripciones, textos continuos.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia16.png",
+      "caption": "Notas, leyendas o secundarios. Rubik Light o Regular. Tamaño pequeño (12–14 px / 8–9 pt). Uso: pies de imagen, disclaimers, metadatos.",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia17.png",
+      "caption": "Citas o frases destacadas. Space Grotesk Regular o Bold en gran tamaño. Uso libre, según intención expresiva o decorativa",
+      "layout": "row"
+      },
+      {
+      "type": "image",
+      "src": "img/tipografia/Tipografia18.png",
+      "caption": "Recomendaciones. Mantener contrastes visibles entre niveles, pero sin exagerar el salto de tamaño. Evitar combinar más de tres niveles tipográficos en una misma composición si no es estrictamente necesario. Usar mayúsculas con moderación, preferiblemente en títulos o etiquetas muy cortas. Asegurar el contraste suficiente entre texto y fondo para garantizar la accesibilidad.",
       "layout": "row"
       }
     ],

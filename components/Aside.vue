@@ -37,7 +37,7 @@ import MenuButton from './MenuButton.vue'
                 { label: 'Tipografía secundaria', href: '/tipografia#tsecundaria' },
                 { label: 'Pesos', href: '/tipografia#pesos' },
                 { label: 'Jerarquía de tipos', href: '/tipografia#jerarquia' },
-                { label: 'Aplicaciones', href: '/tipografia#taplicaciones' },
+                // { label: 'Aplicaciones', href: '/tipografia#taplicaciones' },
             ]" />
             <MenuButton label="Color" to="/color" :submenu="[
                 { label: 'Colores principales', href: '/color#cprincipales' },
