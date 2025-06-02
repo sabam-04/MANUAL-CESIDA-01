@@ -87,7 +87,7 @@ const imageContainerClass = computed(() => {
 
     .image-container {
         display: grid;
-        gap: 1rem;
+        gap: 2rem;
         margin-top: 1rem;
 
         &.cols-1 {

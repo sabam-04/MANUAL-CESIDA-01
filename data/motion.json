@@ -1,13 +1,28 @@
 [
   {
-    "titulo": "Introducción",
-    "subtitulo": "Identidad visual de Cesida",
+    "titulo": "Motion",
+    "subtitulo": "Visión general",
     "descripcion": [
-      "¡Bienvenidx!",
-      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
-      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
-      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
-      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
+      "El sistema de motion define cómo se mueve Cesida, aportando expresión y reforzando la transmisión del mensaje. Su propósito es realzar, captar la atención e informar de manera progresiva y clara. A través del movimiento, se busca acentuar los valores de inclusión y normalidad, dotando a las formas de una personalidad única."
+    ],
+    "layout": "cols-1",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion1.mp4",
+      "caption": "",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Modos",
+    "subtitulo": "",
+    "descripcion": [
+      "Se emplean distintos tipos de animación, algunos generados manualmente y otros de forma generativa. A continuación, se detallan:"
     ],
     "layout": "cols-1",
     "id": "",
@@ -18,6 +33,212 @@
       "caption": "",
       "layout": "row"
       }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+   {
+    "titulo": "",
+    "subtitulo": "Manuales",
+    "descripcion": [
+      "Formas",
+      "Existen seis tipos de movimientos posibles para la aparición de formas:"      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion2.mp4",
+      "caption": "Escala: los módulos de los cuatro cuadrantes emergen escalando progresivamente desde el centro.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion3.mp4",
+      "caption": "Máscara: los módulos están ocultos tras máscaras y se deslizan hasta formar la figura completa.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+  {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion4.mp4",
+      "caption": "Imán: los módulos aparecen separados y se atraen entre sí, cada uno con una personalidad propia.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+  {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion5.mp4",
+      "caption": "Crecimiento: los módulos emergen de forma escalonada.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+   {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion6.mp4",
+      "caption": "Radial: se muestra cada cuadrante mediante un barrido radial.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+   {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion7.mp4",
+      "caption": "Unión: los módulos, ocultos tras una máscara, aparecen simultáneamente y se unen.",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+{
+    "titulo": "Patrones",
+    "subtitulo": "",
+    "descripcion": [
+      "Se utilizan como elementos de transición, a modo de cortinillas, entre imágenes o vídeos."      
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion8.mp4",
+      "caption": "",
+      "layout": "column"
+      },
+       {
+      "type": "video",
+      "src": "img/motion/Motion9.mp4",
+      "caption": "",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+
+   {
+    "titulo": "",
+    "subtitulo": "Generativos",
+    "descripcion": [
+      "Se emplean distintos tipos de animación, algunos generados manualmente y otros de forma generativa. A continuación, se detallan:"
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion10.mp4",
+      "caption": "Tetris aleatorio: los módulos caen con un estilo tipo Tetris, incorporando rebote y retrasos opcionales. Se utilizan expresiones random para generar variabilidad.",
+      "layout": "column"
+      }
+      
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion11.mp4",
+      "caption": "Cortinilla constructiva: los módulos aparecen progresivamente construyendo una cortinilla que luego se disuelve aleatoriamente. Se emplean expresiones como seedRandom, fade, delay y cycle speed para controlar la opacidad y la aleatoriedad.",
+      "layout": "column"
+      }
+      
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+    {
+    "titulo": "Color",
+    "subtitulo": "",
+    "descripcion": [
+      "Se puede utilizar toda la paleta de colores para los motion graphics. Predominan las combinaciones de tonos vibrantes y claros en los fondos y las formas, mientras que la gama oscura se reserva principalmente para los textos."
+    ],
+    "layout": "cols-2",
+    "id": "",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion11.mp4",
+      "caption": "Cortinilla constructiva: los módulos aparecen progresivamente construyendo una cortinilla que luego se disuelve aleatoriamente. Se emplean expresiones como seedRandom, fade, delay y cycle speed para controlar la opacidad y la aleatoriedad.",
+      "layout": "column"
+      }
+      
     ],
   "showButton": false,
   "botonTexto": ""
