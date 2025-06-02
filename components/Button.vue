@@ -2,23 +2,34 @@
 const props = defineProps({
   text: {
     type: String,
-    default: 'Ver más'
+    default: 'Ver vídeo'
+  },
+  href: {
+    type: String,
+    required: true
   }
 })
 </script>
 
 <template>
-  <button class="main-button">
+  <a
+    class="main-button"
+    :href="href"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     {{ text }}
-  </button>
+  </a>
 </template>
 
 <style scoped>
 .main-button {
+  display: inline-block;
   background-color: black;
   color: white;
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
+  text-decoration: none;
   border: none;
   border-radius: 0.25rem;
   cursor: pointer;

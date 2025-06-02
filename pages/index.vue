@@ -1,16 +1,21 @@
 <template>
- <div class="layout">
-    
-      <Card
-        v-for="(card, i) in cards"
-        :key="i"
-        v-bind="card"
-      />
+  <div class="layout">
+    <div v-for="(card, i) in cards" :key="i">
+      <Card v-bind="card" />
+      <Button v-if="card.showButton">{{ card.buttonText }}</Button>
+    </div>
   </div>
+
+  <Button
+  text="Ver vídeo"
+  href="https://drive.google.com/file/d/1qRu2ChDVYjlOLSrZAM0zX03AQOqOtFaZ/view?usp=sharing"/>
+
 </template>
 
 <script setup>
 import Card from '~/components/Card.vue'
+
+
 
 
 const cards = [
@@ -24,8 +29,18 @@ const cards = [
       'Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.',
       '“Un diseño que no estigmatiza. Una marca que visibiliza.”'
     ],
-    images: ['https://via.placeholder.com/300'],
-    layout: 'column'
+      layout: 'cols-1',
+
+    media: [
+    {
+      type: 'image',
+      src: 'img/Thumbnail.png',
+      caption: 'Video promocional de la marca.',
+      layout: 'column'
+    }
+  ],
+  showButton: false,
+  buttonText: 'Ver vídeo',
   }
 ]
 
