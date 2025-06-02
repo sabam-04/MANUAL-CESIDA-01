@@ -47,14 +47,17 @@ import MenuButton from './MenuButton.vue'
             ]" />
 
             <MenuButton label="Layout" to="/layout" :submenu="[
+                { label: 'Visión general', href: '/layout#visiong' },
                 { label: 'Retícula', href: '/layout#reticula' },
+                { label: 'Recomendaciones', href: '/layout#recomendaciones' },
 
             ]" />
 
             <MenuButton label="Formas y patrones" to="/formas" :submenu="[
-                { label: 'Formas', href: '#formas' },
-                { label: 'Patrones', href: '#patrones' },
-                { label: 'Comportamientos', href: '#fcomportamientos' },
+                { label: 'Formas', href: '/formas#formas' },
+                { label: 'Uso', href: '/formas#uso' },
+                { label: 'Patrones', href: '/formas#patrones' },
+                { label: 'Comportamientos', href: '/formas#fcomportamientos' },
             ]" />
 
             <MenuButton label="Fotografía" to="/fotografia" :submenu="[
@@ -73,6 +76,7 @@ import MenuButton from './MenuButton.vue'
                 { label: 'Merchandising', href: '/aplicaciones#merch' },
                 { label: 'Redes sociales', href: '/aplicaciones#redessociales' },
                 { label: 'Web', href: '/aplicaciones#web' },
+                { label: 'Campaña', href: '/aplicaciones#campaña' },
             ]" />
 
 

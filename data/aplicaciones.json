@@ -1,25 +1,204 @@
 [
   {
-    "titulo": "Introducción",
-    "subtitulo": "Identidad visual de Cesida",
+    "titulo": "Publicidad",
+    "subtitulo": "",
     "descripcion": [
-      "¡Bienvenidx!",
-      "Este es el manual de marca del rediseño de CESIDA, desarrollado por Sandra Barrios, Carlos Peña y Sambhavi Bhagi como proyecto estudiantil en la Escuela Superior de Diseño de Madrid.",
-      "Aquí encontrarás las claves visuales y conceptuales que definen esta nueva identidad: una propuesta que busca acompañar, visibilizar y romper estigmas desde el diseño.",
-      "Este manual no es un conjunto de normas rígidas, sino una guía abierta e inspiradora para comunicar con coherencia, creatividad y empatía todo lo que CESIDA representa.",
-      "“Un diseño que no estigmatiza. Una marca que visibiliza.”"
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "publicidad",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones1.jpg",
+      "caption": "Carteles",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones2.jpg",
+      "caption": "Carteles 2",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones3.jpg",
+      "caption": "Carteles 3",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },{
+    "titulo": "Papelería corporativa",
+    "subtitulo": "",
+    "descripcion": [
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "papeleria",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones4.jpg",
+      "caption": "Tarjetas de visita",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones5.jpg",
+      "caption": "Flyers",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones6.jpg",
+      "caption": "Acreditaciones",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones7.png",
+      "caption": "Libro de campaña",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },{
+    "titulo": "Merchandising",
+    "subtitulo": "",
+    "descripcion": [
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "merch",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones8.png",
+      "caption": "Camiseta",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones9.jpg",
+      "caption": "Camiseta 2",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones10.jpg",
+      "caption": "Totebag",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },{
+    "titulo": "Redes sociales",
+    "subtitulo": "",
+    "descripcion": [
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "redessociales",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones11.png",
+      "caption": "Perfil de Instagram",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },{
+    "titulo": "Web",
+    "subtitulo": "",
+    "descripcion": [
+      ""
+    ],
+    "layout": "cols-1",
+    "id": "web",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/Aplicaciones12.jpg",
+      "caption": "Página web escritorio y móvil",
+      "layout": "column"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Campaña",
+    "subtitulo": "¿Qué Mundo Quieres Construir?",
+    "descripcion": [
+      "<strong>“¿Qué mundo quieres construir?”</strong> es una campaña educativa e interactiva desarrollada para CESIDA que utiliza el lenguaje del videojuego para generar conciencia sobre el estigma asociado al VIH. El eje central de la campaña es un videojuego de toma de decisiones, donde el jugador acompaña a un personaje aleatorio que sufre distintas situaciones de discriminación.", 
+      "A lo largo del juego, debe elegir entre respuestas empáticas, neutrales o estigmatizantes, que condicionan el desarrollo de la historia y el mundo que se va construyendo con cada decisión.",
+      "El juego culmina en uno de cuatro posibles finales:",
+      "<strong>Mundo empático:</strong> un entorno justo y respetuoso donde el estigma ha sido combatido.",
+      "<strong>Mundo silencioso:</strong> un lugar donde la pasividad perpetúa la discriminación.",
+      "<strong>Mundo indeciso:</strong> un espacio de contradicciones, donde las dudas frenan el cambio.",
+      "<strong>Mundo caótico:</strong> un escenario marcado por el rechazo y la desinformación."
+
+    ],
+    "layout": "cols-1",
+    "id": "campaña",
+    "media": [
+      {
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña1.png",
+      "caption": "",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña2.png",
+      "caption": "",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña3.png",
+      "caption": "Cada final está representado gráficamente por una ilustración construida con formas modulares derivadas de la identidad visual de la marca, a modo de piezas, ladrillos o fichas de Tetris, que simbolizan el mundo que hemos “construido” con nuestras decisiones.",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña4.png",
+      "caption": "Al final del juego, el jugador descubre el testimonio real de una persona con VIH, con su foto y un mensaje directo a la sociedad. Estas historias aportan contexto y visibilizan el impacto del estigma. También podrá acceder a la web de CESIDA y reiniciar el juego para vivir un nuevo escenario, tomar otras decisiones y conocer un testimonio diferente.",
+      "layout": "row"
+      }
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },{
+    "titulo": "",
+    "subtitulo": "",
+    "descripcion": [
+      "La campaña está especialmente dirigida a un público joven, utilizando mecánicas lúdicas para promover la reflexión y el aprendizaje. Su distribución se plantea a través de:"
     ],
     "layout": "cols-1",
     "id": "",
     "media": [
       {
+      "type": "video",
+      "src": "img/aplicaciones/campaña/Campaña5.mp4",
+      "caption": "Carteles urbanos con código QR, que llevan directamente al juego.",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña6.jpg",
+      "caption": "Redes sociales y web de CESIDA, como canal de difusión principal.",
+      "layout": "row"
+      },{
+      "type": "image",
+      "src": "img/aplicaciones/campaña/Campaña7.png",
+      "caption": "Eventos y espacios educativos, donde puede presentarse de forma experiencial.",
+      "layout": "row"
+      },{
       "type": "image",
       "src": "",
-      "caption": "",
-      "layout": "row"
+      "caption": "Con esta campaña buscamos romper prejuicios, fomentar la empatía y activar la responsabilidad colectiva a través de una experiencia participativa, accesible y visualmente impactante.",
+      "layout": "column"
       }
     ],
   "showButton": false,
   "botonTexto": ""
   }
 ]
+
+
