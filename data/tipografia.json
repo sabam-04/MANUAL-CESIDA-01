@@ -109,7 +109,7 @@
       {
       "type": "image",
       "src": "img/tipografia/Tipografia8.png",
-      "caption": "Rubik Light. Puede utilizarse en bloques de texto secundarios o en materiales que requieran una apariencia más liviana y aireada",
+      "caption": "Rubik Light. Puede utilizarse en bloques de texto secundarios o en materiales que requieran una apariencia más liviana y aireada",
       "layout": "row"
       }
     ],
@@ -166,25 +166,25 @@
       {
       "type": "image",
       "src": "img/tipografia/Tipografia13.png",
-      "caption": "Título principal (H1). Space Grotesk Bold o Semibold. Tamaño grande (48–64 px en digital / 24–36 pt en impreso). Uso: nombres de secciones, carteles, portadas, titulares.",
+      "caption": "Título principal (H1). Space Grotesk Bold o Semibold. Tamaño grande (48-64 px en digital / 24-36 pt en impreso). Uso: nombres de secciones, carteles, portadas, titulares.",
       "layout": "row"
       },
       {
       "type": "image",
       "src": "img/tipografia/Tipografia14.png",
-      "caption": "Subtítulo o destacados (H2 / H3). Rubik Bold o Medium. Tamaño intermedio (24–36 px / 14–18 pt). Uso: introducciones, frases clave, encabezados de bloque.",
+      "caption": "Subtítulo o destacados (H2 / H3). Rubik Bold o Medium. Tamaño intermedio (24-36 px / 14-18 pt). Uso: introducciones, frases clave, encabezados de bloque.",
       "layout": "row"
       },
       {
       "type": "image",
       "src": "img/tipografia/Tipografia15.png",
-      "caption": "Texto base / cuerpo (Párrafos). Rubik Regular. Tamaño legible (16–20 px / 10–12 pt)  Uso: textos informativos, descripciones, textos continuos.",
+      "caption": "Texto base / cuerpo (Párrafos). Rubik Regular. Tamaño legible (16-20 px / 10-12 pt). Uso: textos informativos, descripciones, textos continuos.",
       "layout": "row"
       },
       {
       "type": "image",
       "src": "img/tipografia/Tipografia16.png",
-      "caption": "Notas, leyendas o secundarios. Rubik Light o Regular. Tamaño pequeño (12–14 px / 8–9 pt). Uso: pies de imagen, disclaimers, metadatos.",
+      "caption": "Notas, leyendas o secundarios. Rubik Light o Regular. Tamaño pequeño (12-14 px / 8-9 pt). Uso: pies de imagen, disclaimers, metadatos.",
       "layout": "row"
       },
       {
