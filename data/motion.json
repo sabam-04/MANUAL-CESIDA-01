@@ -46,7 +46,7 @@
       "Existen seis tipos de movimientos posibles para la aparición de formas:"      
     ],
     "layout": "cols-2",
-    "id": "",
+    "id": "modosmanuales",
     "media": [
       {
       "type": "video",
@@ -164,7 +164,7 @@
       "Se utilizan como elementos de transición, a modo de cortinillas, entre imágenes o vídeos."      
     ],
     "layout": "cols-2",
-    "id": "",
+    "id": "patrones",
     "media": [
       {
       "type": "video",
@@ -190,7 +190,7 @@
       "Se emplean distintos tipos de animación, algunos generados manualmente y otros de forma generativa. A continuación, se detallan:"
     ],
     "layout": "cols-2",
-    "id": "",
+    "id": "modosgenerativos",
     "media": [
       {
       "type": "video",
@@ -227,16 +227,61 @@
     "titulo": "Color",
     "subtitulo": "",
     "descripcion": [
-      "Se puede utilizar toda la paleta de colores para los motion graphics. Predominan las combinaciones de tonos vibrantes y claros en los fondos y las formas, mientras que la gama oscura se reserva principalmente para los textos."
+      "Se puede utilizar toda la paleta de colores para los motion graphics. Predominan las combinaciones de tonos vibrantes y claros en los fondos y las formas, mientras que la gama oscura se reserva principalmente para los textos. Estos son algunos ejemplos de reels para redes sociales:"
     ],
     "layout": "cols-2",
+    "id": "color",
+    "media": [
+      {
+      "type": "video",
+      "src": "img/motion/Motion12.mp4",
+      "caption": "",
+      "layout": "row"
+      },
+      {
+      "type": "video",
+      "src": "img/motion/Motion13.mp4",
+      "caption": "",
+      "layout": "row"
+      },
+      {
+      "type": "video",
+      "src": "img/motion/Motion14.mp4",
+      "caption": "",
+      "layout": "row"
+      },
+      {
+      "type": "video",
+      "src": "img/motion/Motion15.mp4",
+      "caption": "",
+      "layout": "row"
+      }
+      
+    ],
+  "showButton": false,
+  "botonTexto": ""
+  },
+  {
+    "titulo": "Tipografía",
+    "subtitulo": "",
+    "descripcion": [
+      "Los textos aparecen en escena con movimientos suaves y amables, aunque mantienen un carácter entusiasta y enérgico.",
+      "Se utiliza una máscara para ocultarlos inicialmente, permitiendo que emerjan desde la izquierda, la derecha o desde abajo."
+    ],
+    "layout": "cols-1",
     "id": "",
     "media": [
       {
       "type": "video",
-      "src": "img/motion/Motion11.mp4",
-      "caption": "Cortinilla constructiva: los módulos aparecen progresivamente construyendo una cortinilla que luego se disuelve aleatoriamente. Se emplean expresiones como seedRandom, fade, delay y cycle speed para controlar la opacidad y la aleatoriedad.",
-      "layout": "column"
+      "src": "img/motion/Motion16.mp4",
+      "caption": "Movimiento de texto en el logo de Cesida.",
+      "layout": "row"
+      },
+      {
+      "type": "video",
+      "src": "img/motion/Motion17.mp4",
+      "caption": "Movimiento de texto en rótulos.",
+      "layout": "row"
       }
       
     ],

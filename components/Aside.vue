@@ -68,8 +68,11 @@ import MenuButton from './MenuButton.vue'
             ]" />
 
             <MenuButton label="Motion" to="/motion" :submenu="[
-                { label: 'Modos', href: '/motion#modos' },
-                { label: 'Comportamientos', href: '/motion#comportamientos' },
+                { label: 'Modos manuales', href: '/motion#modosmanuales' },
+                { label: 'Patrones', href: '/motion#patrones' },
+                { label: 'Modos generativos', href: '/motion#modosgenerativos' },
+                { label: 'Color', href: '/motion#color' },
+                { label: 'Tipografia', href: '/motion#tipografia' }
             ]" />
 
             <MenuButton label="Aplicaciones" to="/aplicaciones" :submenu="[
